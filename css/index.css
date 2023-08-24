@@ -15,7 +15,7 @@ body {
 .navbar {
 	/* 相对定位 */
 	position: relative;
-	width: 900px;
+	width: 1000px;
 	height: 125px;
 	line-height: 50px;
 	background-color: #fff;
