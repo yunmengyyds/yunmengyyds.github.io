@@ -15,7 +15,7 @@ body {
 .navbar {
 	/* 相对定位 */
 	position: relative;
-	width: 100%;
+	width: 900px;
 	height: 125px;
 	line-height: 50px;
 	background-color: #fff;
@@ -105,7 +105,7 @@ body {
 }
 .nr {
     height: 1300px;
-    width: 1100px;
+    width: 950px;
     margin-left: 50px;
     margin-top: 100px;
     background-color: white;
